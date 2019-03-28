@@ -13,3 +13,5 @@ The index.html contains a root div element called "grades". You are required to:
 | Student Name | Average Grade |
 | Bobbee Pohls |   88.44       |
 |  ...         |   ...         |
+
+4. Write a unit test for your functions
