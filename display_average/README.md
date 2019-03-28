@@ -11,6 +11,7 @@ The index.html contains a root div element called "grades". You are required to:
 3. Display it in tabular form in either table element or div element in the following format
 
 | Student Name | Average Grade |
+---|---|
 | Bobbee Pohls |   88.44       |
 |  ...         |   ...         |
 
